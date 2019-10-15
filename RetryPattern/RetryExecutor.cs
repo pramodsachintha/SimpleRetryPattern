@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,9 +14,11 @@ namespace RetryPattern
         {
             this.retryStrategy = retryStrategy;
         }
-        public void Retry(int maxRetries, TimeSpan interval, Action logic) 
+        public void Retry(Action logic) 
         {
             int retries = 0;
+            int maxRetries = retryStrategy.getMaxRetries();
+            TimeSpan interval = retryStrategy.getTimeInterval();
 
             while (true)
             {
