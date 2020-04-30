@@ -26,6 +26,7 @@ namespace RetryPattern
                 {
                     retries++;
                     logic();
+                    break;
                 }
                 catch (Exception ex)
                 {
