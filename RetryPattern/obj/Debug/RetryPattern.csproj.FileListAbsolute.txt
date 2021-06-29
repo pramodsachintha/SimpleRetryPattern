@@ -4,3 +4,10 @@ C:\Users\pramod.sachintha\source\repos\RetryPattern\RetryPattern\bin\Debug\Retry
 C:\Users\pramod.sachintha\source\repos\RetryPattern\RetryPattern\bin\Debug\RetryPattern.pdb
 C:\Users\pramod.sachintha\source\repos\RetryPattern\RetryPattern\obj\Debug\RetryPattern.exe
 C:\Users\pramod.sachintha\source\repos\RetryPattern\RetryPattern\obj\Debug\RetryPattern.pdb
+C:\Projects\Temp\SimpleRetryPattern\RetryPattern\bin\Debug\RetryPattern.exe.config
+C:\Projects\Temp\SimpleRetryPattern\RetryPattern\bin\Debug\RetryPattern.exe
+C:\Projects\Temp\SimpleRetryPattern\RetryPattern\bin\Debug\RetryPattern.pdb
+C:\Projects\Temp\SimpleRetryPattern\RetryPattern\obj\Debug\RetryPattern.csproj.AssemblyReference.cache
+C:\Projects\Temp\SimpleRetryPattern\RetryPattern\obj\Debug\RetryPattern.csproj.CoreCompileInputs.cache
+C:\Projects\Temp\SimpleRetryPattern\RetryPattern\obj\Debug\RetryPattern.exe
+C:\Projects\Temp\SimpleRetryPattern\RetryPattern\obj\Debug\RetryPattern.pdb
